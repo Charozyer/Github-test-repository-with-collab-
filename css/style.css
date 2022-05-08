@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex-grow: 1;
+}
+.navbar-brand img {
+  height: 50px;
+}
+footer{
+  border-top: 1px solid black;
+}
+
+
+
+footer{
+  color: red;
+}
